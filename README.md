@@ -11,7 +11,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/1wDy0NewJUS4w/giphy.gif" alt= "Gif Description" style ="float: right;">
 
-### I am a self-taught computer programmer who has spent programming c# and unity engine. 
+### I am a self-taught computer programmer who has spent programming especially in c# and unity engine. 
 
 * I'm 28 years old 
 * Career Shifter
