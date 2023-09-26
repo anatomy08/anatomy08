@@ -34,6 +34,21 @@ Email me : expectacionjeffrey@gmail.com
 <img src="https://ih1.redbubble.net/image.1106192358.9867/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="python" width="120" hight="50">
 <img src="https://th.bing.com/th/id/OIP.U8QwIjI36ruQ0U7-Y_dshQHaE8?pid=ImgDet&rs=1" alt="AI" width="120" hight="50">
 
+
+# You can Check my Games here: 
+
+Grab Delivery 
+https://jeffreyexpectacion.itch.io/grab-delivery
+
+Frost Glides
+https://jeffreyexpectacion.itch.io/frost-glides
+
+Legend of Biringan 
+https://jeffreyexpectacion.itch.io/legend-of-biringan
+
+Space Odyssey
+https://jeffreyexpectacion.itch.io/space-odyssey
+
 </p>
 </br>
 </br>
