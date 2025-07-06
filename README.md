@@ -30,7 +30,7 @@ Email me : expectacionjeffrey@gmail.com
 
 <p align="center">
   
-<img src="https://jnmsys.com/wp-content/uploads/2022/06/c-sharp-programming-language.png" alt="java"  width="100" hight="50">
+<img src="https://tse1.mm.bing.net/th/id/OIP.wDKWjmWJeeDqTUrdqO8VAAHaIU?rs=1&pid=ImgDetMain&o=7&rm=3" alt="java"  width="100" hight="50">
 <img src="https://ih1.redbubble.net/image.1106192358.9867/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="python" width="120" hight="50">
 <img src="https://th.bing.com/th/id/OIP.U8QwIjI36ruQ0U7-Y_dshQHaE8?pid=ImgDet&rs=1" alt="AI" width="120" hight="50">
 <img src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png" alt="AI" width="120" hight="50">
