@@ -37,7 +37,7 @@ I also integrate the **Model Context Protocol (MCP) with Unity** to support AI-a
 
 ### Unity and Application Development
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,dotnet" alt="Unity and .NET" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
 </p>
 
 - Unity 2D, Unity 3D, mobile, and WebGL development
