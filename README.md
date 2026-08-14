@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jeffrey Expectacion</h1>
-<h3 align="center">Software Engineer | Unity & C# Developer | AI-Assisted Development</h3>
+<h3 align="center">Software Engineer | Unity & C# Developer | .NET Backend Development | AI-Assisted Development</h3>
 
 <p align="center">
   <a href="mailto:expectacionjeffrey@gmail.com">Email</a> |
@@ -12,88 +12,108 @@
 
 ## About Me
 
-I am a Software Engineer and Unity Developer from Cavite City, Philippines, with hands-on experience building 2D, 3D, mobile, and WebGL games and applications using Unity and C#.
+I am a Software Engineer and Unity/C# Developer from the Philippines with professional experience building 2D, 3D, mobile, and WebGL games and applications. I am also expanding my C# experience into backend development with ASP.NET Core and Entity Framework Core.
 
-I work across gameplay mechanics, application systems, UI/UX animation, local data persistence, API integration, asset delivery, performance optimization, debugging, and release-ready builds. I enjoy creating interactive systems that feel smooth, responsive, maintainable, and complete.
+My work covers gameplay systems, REST APIs, application logic, UI/UX animation, local data persistence, API integration, asset delivery, performance optimization, debugging, testing, and release-ready builds.
 
-Recent work includes **Mojye: Budget Tracker**, a local-first mobile app with budget periods, transactions, categories, savings, reminders, JSON backups, and CSV exports.
-
-I also integrate the **Model Context Protocol (MCP) with Unity** to support AI-assisted development workflows, including inspecting scenes and assets, working with GameObjects and components, iterating on C# scripts, checking Editor console errors, validating Play Mode behavior, and running tests.
+I also use AI-assisted development workflows, including Model Context Protocol (MCP) integrations with Unity, to accelerate implementation, debugging, testing, documentation, and iteration while maintaining ownership of architecture and technical decisions.
 
 ---
 
 ## Tech Stack
 
-### Languages and Data
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,js,html,css,mysql" alt="Languages and data technologies" />
-</p>
+### C# and .NET
 
 - C#
-- JavaScript
-- HTML and CSS
-- SQL
-- JSON and CSV
+- ASP.NET Core Web API
+- Entity Framework Core
+- RESTful API development
+- DTOs and request validation
+- SQLite and Azure SQL
+- Swagger / OpenAPI
+- xUnit
+- Azure App Service
 
-### Unity and Application Development
-<p>
-  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
-</p>
+### Unity Development
 
-- Unity 2D, Unity 3D, mobile, and WebGL development
-- Modular Unity and C# systems
-- Gameplay programming and interactive application logic
+- Unity 2D, Unity 3D, mobile, and WebGL
+- Gameplay programming and modular C# systems
 - UI/UX implementation and DOTween animation
 - Spine animation integration
-- Local data persistence, backup, and export workflows
-- Mobile notifications and permission-aware features
-- API integration
+- API integration and event-driven systems
 - Addressables and Asset Bundles
-- ASTC and DXT asset bundle formats
-- Unity Profiler, debugging, and build optimization
+- ASTC and DXT asset formats
+- Unity Profiler, debugging, and performance optimization
+- Unity Test Framework
 
-### AI-Assisted Unity Development
+### Mobile and Web
+
+- React Native and Expo
+- JavaScript / TypeScript
+- HTML and CSS
+- Local-first application architecture
+- JSON backup and CSV export workflows
+- Mobile notifications
+- Google Play and WebGL publishing
+
+### AI-Assisted Development
 
 - Model Context Protocol (MCP)
-- MCP for Unity integration and Editor automation
-- AI-assisted scene, asset, prefab, GameObject, and component workflows
-- C# script iteration with compilation feedback
-- Unity Editor console debugging and Play Mode validation
-- Unity Test Framework workflows
+- Unity MCP integration and Editor automation
+- AI-assisted C# implementation and refactoring
+- Compilation, console, Play Mode, and test-driven validation
 - Codex, Claude, and Cursor
 
 ### Tools and Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,aws,notion" alt="Development tools and platforms" />
-</p>
 
-- Unity Editor and Unity MCP
 - Visual Studio and VS Code
-- Cursor
 - Git, GitHub, Git Bash, and SourceTree
-- MySQL Workbench
+- Azure
 - AWS
+- Swagger / OpenAPI
+- Postman
+- MySQL Workbench
 - Notion and Slack
-- Spine
-- Google Play and WebGL publishing
 
 ---
 
-## Selected Project
+## Featured Projects
 
-### Mojye: Budget Tracker
+### Job Tracker API — ASP.NET Core / C#
 
-A privacy-focused, local-first mobile budget tracker developed under **Jye Studios**. Mojye supports on-device budgeting data, savings tracking, reminders, JSON backups, and CSV exports without requiring an account or cloud sync.
+A RESTful backend for managing job applications, built to demonstrate C# development outside the Unity runtime and practical ASP.NET Core API architecture.
 
-- [View Mojye's privacy policy](https://anatomy08.github.io/mojye-privacy-policy/)
+**Highlights:** ASP.NET Core Web API, Entity Framework Core, SQLite/Azure SQL, CRUD endpoints, DTOs, validation, Swagger/OpenAPI, xUnit, and Azure deployment.
+
+- [View Repository](https://github.com/anatomy08/job-tracker-api)
+- [View Portfolio](https://anatomy08.github.io/jeffreyexpectacion/)
+
+### Robot Runner — Unity / C# / MCP
+
+An endless runner built in Unity using an MCP-connected AI development workflow. I directed the gameplay architecture, procedural environment and track spawning, obstacle variety, asset integration, testing, debugging, and iteration.
+
+**Highlights:** Unity, C#, procedural generation, gameplay systems, WebGL, MCP-connected development, testing, and AI-assisted iteration.
+
+- [View Repository](https://github.com/anatomy08/Robot-Endless-Runner)
+- [Play WebGL Build](https://jeffreyexpectacion.itch.io/robot-runner)
+
+### Mojye: Budget Tracker — React Native / Expo
+
+A privacy-focused, local-first mobile budgeting application developed under **Jye Studios**. I defined the product roadmap, financial logic, user flows, data behavior, testing strategy, bug fixes, and Google Play release requirements while using AI tools to accelerate implementation.
+
+**Highlights:** budgeting and transaction management, savings tracking, reminders, multi-currency support, analytics, JSON backup/import, CSV export, local persistence, Expo/EAS, and Google Play delivery.
+
+- [View Portfolio](https://anatomy08.github.io/jeffreyexpectacion/)
+- [Privacy Policy](https://anatomy08.github.io/mojye-privacy-policy/)
 
 ---
 
 ## Current Focus
 
+- Strengthening ASP.NET Core, Entity Framework Core, and backend C# development
 - Building maintainable Unity and C# systems
-- Mobile and WebGL application development
-- AI-assisted Unity tooling and workflow automation
+- REST API design, testing, and cloud deployment
+- AI-assisted development and workflow automation
 - Performance optimization, debugging, and product polish
 
 ---
