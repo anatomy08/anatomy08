@@ -83,10 +83,18 @@ I also use AI-assisted development workflows, including Model Context Protocol (
 
 A RESTful backend for managing job applications, built to demonstrate C# development outside the Unity runtime and practical ASP.NET Core API architecture.
 
-**Highlights:** ASP.NET Core Web API, Entity Framework Core, SQLite/Azure SQL, CRUD endpoints, DTOs, validation, Swagger/OpenAPI, xUnit, and Azure deployment.
+**Highlights:** ASP.NET Core Web API, Entity Framework Core, SQLite/Azure SQL, CRUD endpoints, DTOs, validation, Swagger/OpenAPI, xUnit, GitHub Actions CI, and Azure deployment.
 
 - [View Repository](https://github.com/anatomy08/job-tracker-api)
 - [View Portfolio](https://anatomy08.github.io/jeffreyexpectacion/)
+
+### Space Invaders Proficiency Test — Unity / C#
+
+A 3D arcade shooter built as a focused Unity proficiency project, demonstrating practical gameplay implementation with player controls, particle-based combat, enemy behavior, health and scoring, wave respawning, UI feedback, audio, and VFX.
+
+**Highlights:** Unity 6.3, C#, Unity Input System, Particle System combat, enemy spawning and respawning, health/scoring systems, UI, audio, and VFX.
+
+- [View Repository](https://github.com/anatomy08/Space-Invaders-Proficiency-Test)
 
 ### Robot Runner — Unity / C# / MCP
 
@@ -99,10 +107,11 @@ An endless runner built in Unity using an MCP-connected AI development workflow.
 
 ### Mojye: Budget Tracker — React Native / Expo
 
-A privacy-focused, local-first mobile budgeting application developed under **Jye Studios**. I defined the product roadmap, financial logic, user flows, data behavior, testing strategy, bug fixes, and Google Play release requirements while using AI tools to accelerate implementation.
+A privacy-focused, local-first mobile budgeting application developed under **Jye Studios** and published on Google Play. I defined the product roadmap, financial logic, user flows, data behavior, testing strategy, bug fixes, and Android release requirements while using AI tools to accelerate implementation.
 
-**Highlights:** budgeting and transaction management, savings tracking, reminders, multi-currency support, analytics, JSON backup/import, CSV export, local persistence, Expo/EAS, and Google Play delivery.
+**Highlights:** budgeting and transaction management, savings tracking, reminders, multi-currency support, analytics, JSON backup/import, CSV export, local persistence, Expo/EAS, and Google Play production release.
 
+- [Get Mojye on Google Play](https://play.google.com/store/apps/details?id=com.jyestudios.mojye)
 - [View Portfolio](https://anatomy08.github.io/jeffreyexpectacion/)
 - [Privacy Policy](https://anatomy08.github.io/mojye-privacy-policy/)
 
