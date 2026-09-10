@@ -88,13 +88,14 @@ A RESTful backend for managing job applications, built to demonstrate C# develop
 - [View Repository](https://github.com/anatomy08/job-tracker-api)
 - [View Portfolio](https://anatomy08.github.io/jeffreyexpectacion/)
 
-### Space Invaders Proficiency Test — Unity / C#
+### 3D Space Invader — Unity / C#
 
 A 3D arcade shooter built as a focused Unity proficiency project, demonstrating practical gameplay implementation with player controls, particle-based combat, enemy behavior, health and scoring, wave respawning, UI feedback, audio, and VFX.
 
 **Highlights:** Unity 6.3, C#, Unity Input System, Particle System combat, enemy spawning and respawning, health/scoring systems, UI, audio, and VFX.
 
 - [View Repository](https://github.com/anatomy08/Space-Invaders-Proficiency-Test)
+- [View Portfolio](https://anatomy08.github.io/jeffreyexpectacion/)
 
 ### Robot Runner — Unity / C# / MCP
 
